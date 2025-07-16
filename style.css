@@ -1,0 +1,22 @@
+.main-height {
+  height: 80vh;
+}
+
+.quiz-answer-card {
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.quiz-answer-card:hover {
+  background-color: #f0f0f0;
+}
+
+.bg-success,
+.bg-danger {
+  color: white !important;
+}
+
+.line {
+  border-bottom: 1px solid #eee;
+  margin: 1rem 0;
+}

@@ -1,0 +1,42 @@
+let questions = [
+  {
+    question: 'Wofür steht HTML?',
+    answers_1: 'Hyper Trainer Marking Language',
+    answers_2: 'Hyper Text Markup Language',
+    answers_3: 'Hyper Text Marketing Language',
+    answers_4: 'Hyper Tool Markup Language',
+    right_answer: 2,
+  },
+  {
+    question: 'Welches HTML-Element wird für den größten Überschriftentext verwendet?',
+    answers_1: '&lt;heading&gt;',
+    answers_2: '&lt;h6&gt;',
+    answers_3: '&lt;h1&gt;',
+    answers_4: '&lt;header&gt;',
+    right_answer: 3,
+  },
+  {
+    question: 'Welches Attribut wird verwendet, um einem Bild eine alternative Beschreibung zu geben?',
+    answers_1: 'title',
+    answers_2: 'src',
+    answers_3: 'alt',
+    answers_4: 'description',
+    right_answer: 3,
+  },
+  {
+    question: 'Welches Tag wird verwendet, um einen Link in HTML zu erstellen?',
+    answers_1: '&lt;a&gt;',
+    answers_2: '&lt;link&gt;',
+    answers_3: '&lt;href&gt;',
+    answers_4: '&lt;url&gt;',
+    right_answer: 1,
+  },
+  {
+    question: 'Welches Attribut wird benötigt, um eine Eingabefeld-Pflicht in einem Formular durchzusetzen?',
+    answers_1: 'required',
+    answers_2: 'mandatory',
+    answers_3: 'need',
+    answers_4: 'must',
+    right_answer: 1,
+  },
+];
